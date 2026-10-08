@@ -1,0 +1,15 @@
+The cast of The Long Shadow
+
+People (ned, robert, catelyn, cersei, tyrion, bran) are built with MakeHuman /
+MPFB2 (makehumancommunity.org) by scripts/cast/build_humans.py:
+- MakeHuman base mesh, skins, eyes, eyebrows, eyelashes, teeth, system hair: CC0.
+- "Medieval dress" by punkduck (Dress 03 pack): CC-BY 4.0.
+- "f_dress_05" by Mindfront (Dress 03 pack): CC-BY 4.0.
+- Hair from the Hair 02 pack by Elvaerwyn: CC-BY 4.0 (where used).
+- Beards from the Bodyparts 05 pack: CC0.
+- Menswear (tunics, doublets, trousers, boots, belts) is generated per body by
+  scripts/cast/garments.py, textured with Poly Haven fabric scans (CC0).
+
+Soldiers (paladin, guard, knight, heraklios and others) and every animation in
+humanoid-anims.glb come from Adobe Mixamo (mixamo.com), used under Mixamo's
+terms: free for use in games and other projects, not redistributed as assets.
