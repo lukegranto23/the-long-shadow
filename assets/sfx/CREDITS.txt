@@ -1,0 +1,17 @@
+Sound effects and ambience in The Long Shadow (public/assets/sfx).
+Files were trimmed, resampled, looped and re-encoded for the game.
+
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/):
+- Nature Ambient Pack Vol 1 by JC Sounds
+  https://opengameart.org/content/jc-sounds-nature-ambient-pack-vol-1
+  (amb-*, fire-* loops)
+- Horse gallop on different surfaces by congusbongus
+  https://opengameart.org/content/horse-gallop-on-different-surfaces
+  (gallop-grass from StephenSaldanha, gallop-ground from D4XX on Freesound, both CC0)
+
+CC0 (public domain):
+- Kenney RPG Audio and Impact Sounds, https://kenney.nl
+- Swishes Sound Pack and RPG Sound Pack by artisticdude (OpenGameArt)
+- Medieval Sound Effects - Weapon Textures by MedicineStorm (OpenGameArt)
+- Male Grunt/Yelling sounds by HaelDB (OpenGameArt, CC0 option)
+- Crowd shouting/speaking ambience by StarNinjas (OpenGameArt)
