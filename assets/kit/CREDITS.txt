@@ -1,0 +1,44 @@
+Buildings and props in The Long Shadow (public/assets/kit), all CC BY 4.0
+(https://creativecommons.org/licenses/by/4.0/). Models were split into pieces,
+rescaled and compressed for the game.
+
+title:	Medieval Houses (3 Pack)
+source:	https://sketchfab.com/3d-models/medieval-houses-3-pack-38443304774c481e9498b3e810389e91
+author:	Ajay Gawde (https://sketchfab.com/aagawde)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Medieval house | Generic Textures | Game ready
+source:	https://sketchfab.com/3d-models/medieval-house-generic-textures-game-ready-3eb9e3b600264e2f99100fc43619497e
+author:	by__Rx (https://sketchfab.com/by__Rx)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Asset medieval log building
+source:	https://sketchfab.com/3d-models/asset-medieval-log-building-af38c38a25c14f979e094f6477d77316
+author:	KIFIR (https://sketchfab.com/kifir)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Medieval Houses Asset
+source:	https://sketchfab.com/3d-models/medieval-houses-asset-377413861d004cd6b33680a948904b51
+author:	Uğur Yakışık (https://sketchfab.com/UgurYksk)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Medieval Tavern (2k vertices) - free game asset
+source:	https://sketchfab.com/3d-models/medieval-tavern-2k-vertices-free-game-asset-a06dfdc919334bfc95de720ad98f4295
+author:	Andy Woodhead (https://sketchfab.com/Andywoodhead)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Medieval Fayre - free game assets
+source:	https://sketchfab.com/3d-models/medieval-fayre-free-game-assets-595624e5bd7543fe968bd8b2e3280196
+author:	Andy Woodhead (https://sketchfab.com/Andywoodhead)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Medieval viking house
+source:	https://sketchfab.com/3d-models/medieval-viking-house-d62630ed2e8241788874f48468a8a9f7
+author:	olofunot (https://sketchfab.com/olofunot)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+title:	Tower and Castle Walls
+source:	https://sketchfab.com/3d-models/tower-and-castle-walls-fca85f8450604e6f98952a2739f92672
+author:	LucasPresoto (https://sketchfab.com/LucasPresoto)
+license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
