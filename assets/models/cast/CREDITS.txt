@@ -13,3 +13,7 @@ MPFB2 (makehumancommunity.org) by scripts/cast/build_humans.py:
 Soldiers (paladin, guard, knight, heraklios and others) and every animation in
 humanoid-anims.glb come from Adobe Mixamo (mixamo.com), used under Mixamo's
 terms: free for use in games and other projects, not redistributed as assets.
+
+Motion: "Universal Animation Library" and "Universal Animation Library 2" by
+Quaternius (quaternius.com), CC0, converted to Mixamo bone names by
+scripts/cast/ual_to_mixamo.py (anims-ual1.glb, anims-ual2.glb).
