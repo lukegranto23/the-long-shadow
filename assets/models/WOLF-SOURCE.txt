@@ -1,0 +1,5 @@
+wolf.glb
+"Animated Wolf Scene" by Roo (https://sketchfab.com/roo3d)
+https://sketchfab.com/3d-models/animated-wolf-scene-5d55506494e5460eaadf04370e07cd5c
+Licensed CC-BY 4.0 (http://creativecommons.org/licenses/by/4.0/).
+Changes: textures resized to 1024 px and re-encoded as WebP; packed to GLB.
